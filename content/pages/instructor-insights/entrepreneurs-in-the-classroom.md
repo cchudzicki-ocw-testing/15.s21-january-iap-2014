@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 68847d16-d962-0f2b-7563-d82fad77467d
 title: Entrepreneurs in the Classroom
+type: CourseSection
 uid: 985ac65b-cc68-4e19-91e3-f8c9b61ab09e
 ---
 

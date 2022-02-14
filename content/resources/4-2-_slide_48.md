@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: 4.2._slide_48.jpg
+type: OCWImage
 uid: 1e586f8c-78ad-03b1-ff52-f01ca814778b
 ---

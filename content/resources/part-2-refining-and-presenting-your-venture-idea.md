@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[How to Make a Pitch (PDF)](resources/mit15_s21iap14_session1-2)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 1, Part 2: Refining and Presenting Your Venture Idea'
 uid: 88ad3a8a-98f8-3326-3fbe-334dedd60e14

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Finding Your Customer (PDF)](resources/mit15_s21iap14_session2-1)'
+parent_title: Video and Slide Player
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 2, Part 1: Marketing and Sales'
 uid: bbab6d74-7de5-4683-d4d0-0d5ed9eb106d

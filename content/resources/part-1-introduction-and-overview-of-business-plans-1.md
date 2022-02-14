@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Introduction to Business Plans (PDF)](resources/mit15_s21iap14_session1-1)'
+parent_title: Video and Slide Player
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
 uid: d9613dfa-7e05-6d7e-cdd5-711882c70819

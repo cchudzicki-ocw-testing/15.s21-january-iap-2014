@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Video and Slide Player
+type: CourseSection
 uid: c26333e1-0b77-931a-4942-16b5acafb6ce
 ---
 

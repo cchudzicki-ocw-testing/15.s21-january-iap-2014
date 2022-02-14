@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Related Resources and Links
+parent_type: CourseSection
 resourcetype: Image
 title: PriceWaterHouse.jpg
+type: OCWImage
 uid: 5748e224-1d7f-afe8-ca2b-78116355de98
 ---

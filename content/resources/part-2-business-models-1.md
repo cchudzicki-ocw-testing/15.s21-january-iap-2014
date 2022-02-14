@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Business Model Slides (PDF)](resources/mit15_s21iap14_session2-2)'
+parent_title: Video and Slide Player
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 2, Part 2: Business Models'
 uid: 1eb64665-3632-4ca7-e6f4-c733fbbcaa30

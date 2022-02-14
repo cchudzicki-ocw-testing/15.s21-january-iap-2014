@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Business Plan Financial Projections (PDF)](resources/mit15_s21iap14_session3-2)
+
+
+  [Financial Template (XLS)](resources/mit15_s21iap14_fncltemp13)
+
+
+  [Financial Template (PDF)](resources/mit15_s21iap14_fncltemp13-1)'
+parent_title: Video and Slide Player
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 3, Part 2: Financial Projections'
 uid: 84adec40-7d3f-45bc-5258-9269951f3b07
