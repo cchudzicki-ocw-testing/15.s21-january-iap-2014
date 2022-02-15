@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: 2.1_slide_43.jpg
-type: OCWImage
 uid: 27b8b290-1206-1f75-df74-442d2b25a9b1
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1.1 Introduction to Business Plans - 15.S21 Nuts and Bolts IAP 2014
-type: OCWFile
 uid: 6ca783b4-0383-185b-0aa8-284d8da03dc9
 ---

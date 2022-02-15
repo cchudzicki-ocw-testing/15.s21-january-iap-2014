@@ -12,6 +12,5 @@ parent_title: Related Resources and Links
 parent_type: CourseSection
 resourcetype: Image
 title: 15.S21_Guidebook_cover.jpg
-type: OCWImage
 uid: ac6082af-74e4-e2b2-fbd9-adcd51bcbfd9
 ---

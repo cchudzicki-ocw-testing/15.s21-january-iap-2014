@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Lecture 3.2 Business Plan Financial Projections - 15.S21 Nuts and Bolts IAP
   2014
-type: OCWFile
 uid: 09b5bb7d-e6d9-ca4d-b7e4-b2924c484f20
 ---

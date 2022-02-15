@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 4.2 Legal Issues and Business Plans - 15.S21 Nuts and Bolts IAP 2014
-type: OCWFile
 uid: 3f93ef48-ea74-975e-211a-136e9053f052
 ---

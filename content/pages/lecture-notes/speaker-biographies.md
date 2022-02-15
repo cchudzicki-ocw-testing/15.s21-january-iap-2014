@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: ca3d66e6-6d29-02d9-e372-6a8a8c156fcd
 title: Speaker Biographies
-type: CourseSection
 uid: c7ee5bb7-639f-f7e8-b518-da2c4546f236
 ---
 

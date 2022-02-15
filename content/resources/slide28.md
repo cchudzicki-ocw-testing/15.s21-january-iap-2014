@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: 3.2 slide 28
-type: OCWImage
 uid: 0505a449-fea6-f08b-04ff-0710ecefcfe9
 ---

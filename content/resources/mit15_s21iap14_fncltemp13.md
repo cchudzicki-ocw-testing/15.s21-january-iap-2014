@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: Financial Template - 15.S21 Nuts and Bolts IAP 2014
-type: OCWFile
 uid: 1e017185-7c46-bc5e-15c5-18d7e60bd9c6
 ---

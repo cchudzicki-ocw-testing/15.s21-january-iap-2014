@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1.2 How to Make a Pitch - 15.S21 Nuts and Bolts IAP 2014
-type: OCWFile
 uid: ed54344b-909e-f3c2-65d6-e9def909fd46
 ---

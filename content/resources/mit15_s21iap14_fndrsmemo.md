@@ -8,6 +8,5 @@ parent_title: Related Resources and Links
 parent_type: CourseSection
 resourcetype: Document
 title: Founders Memo - 15.S21 Nuts and Bolts IAP 2014
-type: OCWFile
 uid: 1e6bb65b-d5f2-d49b-36b3-739495f00ce8
 ---

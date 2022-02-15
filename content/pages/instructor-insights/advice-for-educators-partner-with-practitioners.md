@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 68847d16-d962-0f2b-7563-d82fad77467d
 title: 'Advice for Educators: Partner with Practitioners'
-type: CourseSection
 uid: af386daa-f958-7966-36a9-7ab93e85af35
 ---
 
