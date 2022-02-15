@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Business Plan Financial Projections (PDF)](resources/mit15_s21iap14_session3-2)
 

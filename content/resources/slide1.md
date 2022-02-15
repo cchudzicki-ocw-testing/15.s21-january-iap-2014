@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: 1.1 slide 1
 uid: 420e09de-bff6-822e-150f-aa7ccb2055aa

@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Introduction to Business Plans (PDF)](resources/mit15_s21iap14_session1-1)'
 parent_title: Lecture Videos

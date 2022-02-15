@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[How to Make a Pitch (PDF)](resources/mit15_s21iap14_session1-2)'
 parent_title: Video and Slide Player

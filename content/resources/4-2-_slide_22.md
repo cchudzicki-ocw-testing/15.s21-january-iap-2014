@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: 4.2._slide_22.jpg
 uid: 9871cbef-ad38-58d5-6e7e-79ef6b7d362f

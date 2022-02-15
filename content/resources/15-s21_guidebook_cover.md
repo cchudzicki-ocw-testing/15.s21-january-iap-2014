@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: The Technology Entrepreneur's Guidebook
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Related Resources and Links
 parent_type: CourseSection
 resourcetype: Image

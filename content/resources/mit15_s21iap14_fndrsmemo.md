@@ -4,6 +4,7 @@ description: This resource contains information related to Founders Memo.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/1e6bb65bd5f2d49b36b3739495f00ce8_MIT15_S21IAP14_FndrsMemo.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources and Links
 parent_type: CourseSection
 resourcetype: Document
