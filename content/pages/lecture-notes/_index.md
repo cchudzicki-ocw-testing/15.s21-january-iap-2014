@@ -53,7 +53,7 @@ During this course we will be referring to the Virtual Ink Business Plan as an e
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Business Plans (PDF)]({{< baseurl >}}/resources/mit15_s21iap14_session1-1)
+{{< resource_link 6ca783b4-0383-185b-0aa8-284d8da03dc9 "Introduction to Business Plans (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ _Presenting Your Idea_
 Entrepreneurs are always "selling" their ideas to potential employees, customers, partners and investors. How do you position and present your ideas in the best light? Part of this class will be an interactive session with students and others who are in the process of developing a business plan.
 {{< tdclose >}}
 {{< tdopen >}}
-[How to Make a Pitch (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_s21iap14_session1-2)
+{{< resource_link ed54344b-909e-f3c2-65d6-e9def909fd46 "How to Make a Pitch (PDF - 1.2MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ This session will discuss these issues and provide guidance on how to approach t
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Finding Your Customer (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_s21iap14_session2-1)
+{{< resource_link 9e7d8905-e77a-484d-d76b-ecea0bc19044 "Finding Your Customer (PDF - 1.1MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Part 2: Business Models
 You have identified a market. Now the most important question "How Do You Make Money"? This session will discuss Business Models. What are some common business models and when are they most appropriately used?
 {{< tdclose >}}
 {{< tdopen >}}
-[Business Model Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_s21iap14_session2-2)
+{{< resource_link dab4a349-c072-c4d9-bbc7-158a5c0be788 "Business Model Slides (PDF - 1.1MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,11 +176,11 @@ Armed with an understanding of the market for your products how do you figure ou
 {{< tdopen >}}
 
 
-[Business Plan Financial Projections (PDF - 1.4MB)]({{< baseurl >}}/resources/mit15_s21iap14_session3-2)
+{{< resource_link 09b5bb7d-e6d9-ca4d-b7e4-b2924c484f20 "Business Plan Financial Projections (PDF - 1.4MB)" >}}
 
-[Financial Template (XLS)]({{< baseurl >}}/resources/mit15_s21iap14_fncltemp13)
+{{< resource_link 1e017185-7c46-bc5e-15c5-18d7e60bd9c6 "Financial Template (XLS)" >}}
 
-[Financial Template (PDF)]({{< baseurl >}}/resources/mit15_s21iap14_fncltemp13-1)
+{{< resource_link 8eca80c5-bf25-3454-a3a0-b1417c4c504d "Financial Template (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -241,7 +241,7 @@ Identifying and dealing with legal issues in the Business Plan. Securities laws 
 General questions and answers on legal issues for the entrepreneur—What you always wanted to know about the law but were afraid to ask / pay for.
 {{< tdclose >}}
 {{< tdopen >}}
-[Legal Issues and Business Plans (PDF - 1.6MB)]({{< baseurl >}}/resources/mit15_s21iap14_session4-2)
+{{< resource_link 3f93ef48-ea74-975e-211a-136e9053f052 "Legal Issues and Business Plans (PDF - 1.6MB)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
