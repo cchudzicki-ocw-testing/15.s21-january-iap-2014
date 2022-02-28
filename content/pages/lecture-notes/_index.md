@@ -37,7 +37,7 @@ Part 1: Introduction and Overview of Business Plans
 
 ### Speaker
 
-[Joe Hadzima (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#hadzima)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joe Hadzima (bio)" "#hadzima" >}}
 
 
 {{< tdclose >}}
@@ -65,7 +65,7 @@ Part 2: Refining and Presenting Your Venture Idea
 
 ### Speaker
 
-[Stephen Pearse (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#pearse)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Stephen Pearse (bio)" "#pearse" >}}
 
 
 {{< tdclose >}}
@@ -89,7 +89,7 @@ Part 1: Marketing and Sales
 
 ### Speakers
 
-[Bob Jones (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#jones)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Bob Jones (bio)" "#jones" >}}
 
 
 {{< tdclose >}}
@@ -117,7 +117,7 @@ Part 2: Business Models
 
 ### Speaker
 
-[Rich Kivel (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#kivel)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Rich Kivel (bio)" "#kivel" >}}
 
 
 {{< tdclose >}}
@@ -140,11 +140,11 @@ Part 1: Financing Sources Panel
 
 ### Speakers
 
-[Axel Bichara (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#bichara)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Axel Bichara (bio)" "#bichara" >}}
 
-[Amir Nashat (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#nashat)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Amir Nashat (bio)" "#nashat" >}}
 
-[Julianne Zimmerman (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#zimmerman)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Julianne Zimmerman (bio)" "#zimmerman" >}}
 
 
 {{< tdclose >}}
@@ -166,7 +166,7 @@ Part 2: Financial Projections
 
 ### Speaker
 
-[Charlie Tillett (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#tillett)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Charlie Tillett (bio)" "#tillett" >}}
 
 
 {{< tdclose >}}
@@ -197,16 +197,16 @@ Part 1: Founder's Journey
 
 ### Speaker
 
-[Ken Zolot (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#zolot)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Ken Zolot (bio)" "#zolot" >}}
 
 ### Panel
 
 [Gihan  
 Amarasiriwardena (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#amarasiriwardena )
 
-[Nina Dudnik (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#dudnik)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Nina Dudnik (bio)" "#dudnik" >}}
 
-[John Harthorne (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#harthorne)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "John Harthorne (bio)" "#harthorne" >}}
 
 
 {{< tdclose >}}
@@ -256,8 +256,8 @@ Part 1: Negotiation Skills
 
 ### Speaker
 
-[Mindy Garber (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#garber)  
-[Victoria Bennet (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#bennet)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Mindy Garber (bio)" "#garber" >}}  
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Victoria Bennet (bio)" "#bennet" >}}
 
 
 {{< tdclose >}}
@@ -277,7 +277,7 @@ Part 2: Organizational and People Issues
 
 ### Speaker
 
-[Joost Bonsen (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#bonsen)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joost Bonsen (bio)" "#bonsen" >}}
 
 
 {{< tdclose >}}
@@ -300,7 +300,7 @@ Pitfalls and Plan Execution
 
 ### Speaker
 
-[Yonald Chery (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#chery)
+{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Yonald Chery (bio)" "#chery" >}}
 
 
 {{< tdclose >}}
