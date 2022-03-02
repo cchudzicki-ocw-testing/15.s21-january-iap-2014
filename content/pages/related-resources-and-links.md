@@ -9,7 +9,7 @@ uid: 81867148-2c05-0830-8342-fa4892f8a248
 The Founder's Memo
 ------------------
 
-The {{< resource_link 1e6bb65b-d5f2-d49b-36b3-739495f00ce8 "Founders' Memo (PDF)" >}} is designed to educate the "team" of Founders as they work out the relationships among themselves. It should be considered by anyone who is thinking of starting a new venture.
+The {{% resource_link 1e6bb65b-d5f2-d49b-36b3-739495f00ce8 "Founders' Memo (PDF)" %}} is designed to educate the "team" of Founders as they work out the relationships among themselves. It should be considered by anyone who is thinking of starting a new venture.
 
 Reprints from the "Starting Up" Column
 --------------------------------------

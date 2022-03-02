@@ -37,7 +37,7 @@ Part 1: Introduction and Overview of Business Plans
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joe Hadzima (bio)" "#hadzima" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joe Hadzima (bio)" "#hadzima" %}}
 
 
 {{< tdclose >}}
@@ -53,7 +53,7 @@ During this course we will be referring to the Virtual Ink Business Plan as an e
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6ca783b4-0383-185b-0aa8-284d8da03dc9 "Introduction to Business Plans (PDF)" >}}
+{{% resource_link 6ca783b4-0383-185b-0aa8-284d8da03dc9 "Introduction to Business Plans (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Part 2: Refining and Presenting Your Venture Idea
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Stephen Pearse (bio)" "#pearse" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Stephen Pearse (bio)" "#pearse" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ _Presenting Your Idea_
 Entrepreneurs are always "selling" their ideas to potential employees, customers, partners and investors. How do you position and present your ideas in the best light? Part of this class will be an interactive session with students and others who are in the process of developing a business plan.
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link ed54344b-909e-f3c2-65d6-e9def909fd46 "How to Make a Pitch (PDF - 1.2MB)" >}}
+{{% resource_link ed54344b-909e-f3c2-65d6-e9def909fd46 "How to Make a Pitch (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Part 1: Marketing and Sales
 
 ### Speakers
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Bob Jones (bio)" "#jones" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Bob Jones (bio)" "#jones" %}}
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ This session will discuss these issues and provide guidance on how to approach t
 
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 9e7d8905-e77a-484d-d76b-ecea0bc19044 "Finding Your Customer (PDF - 1.1MB)" >}}
+{{% resource_link 9e7d8905-e77a-484d-d76b-ecea0bc19044 "Finding Your Customer (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Part 2: Business Models
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Rich Kivel (bio)" "#kivel" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Rich Kivel (bio)" "#kivel" %}}
 
 
 {{< tdclose >}}
@@ -125,7 +125,7 @@ Part 2: Business Models
 You have identified a market. Now the most important question "How Do You Make Money"? This session will discuss Business Models. What are some common business models and when are they most appropriately used?
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link dab4a349-c072-c4d9-bbc7-158a5c0be788 "Business Model Slides (PDF - 1.1MB)" >}}
+{{% resource_link dab4a349-c072-c4d9-bbc7-158a5c0be788 "Business Model Slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,11 +140,11 @@ Part 1: Financing Sources Panel
 
 ### Speakers
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Axel Bichara (bio)" "#bichara" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Axel Bichara (bio)" "#bichara" %}}
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Amir Nashat (bio)" "#nashat" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Amir Nashat (bio)" "#nashat" %}}
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Julianne Zimmerman (bio)" "#zimmerman" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Julianne Zimmerman (bio)" "#zimmerman" %}}
 
 
 {{< tdclose >}}
@@ -166,7 +166,7 @@ Part 2: Financial Projections
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Charlie Tillett (bio)" "#tillett" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Charlie Tillett (bio)" "#tillett" %}}
 
 
 {{< tdclose >}}
@@ -176,11 +176,11 @@ Armed with an understanding of the market for your products how do you figure ou
 {{< tdopen >}}
 
 
-{{< resource_link 09b5bb7d-e6d9-ca4d-b7e4-b2924c484f20 "Business Plan Financial Projections (PDF - 1.4MB)" >}}
+{{% resource_link 09b5bb7d-e6d9-ca4d-b7e4-b2924c484f20 "Business Plan Financial Projections (PDF - 1.4MB)" %}}
 
-{{< resource_link 1e017185-7c46-bc5e-15c5-18d7e60bd9c6 "Financial Template (XLS)" >}}
+{{% resource_link 1e017185-7c46-bc5e-15c5-18d7e60bd9c6 "Financial Template (XLS)" %}}
 
-{{< resource_link 8eca80c5-bf25-3454-a3a0-b1417c4c504d "Financial Template (PDF)" >}}
+{{% resource_link 8eca80c5-bf25-3454-a3a0-b1417c4c504d "Financial Template (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -197,16 +197,16 @@ Part 1: Founder's Journey
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Ken Zolot (bio)" "#zolot" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Ken Zolot (bio)" "#zolot" %}}
 
 ### Panel
 
 [Gihan  
 Amarasiriwardena (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#amarasiriwardena )
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Nina Dudnik (bio)" "#dudnik" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Nina Dudnik (bio)" "#dudnik" %}}
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "John Harthorne (bio)" "#harthorne" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "John Harthorne (bio)" "#harthorne" %}}
 
 
 {{< tdclose >}}
@@ -241,7 +241,7 @@ Identifying and dealing with legal issues in the Business Plan. Securities laws 
 General questions and answers on legal issues for the entrepreneur—What you always wanted to know about the law but were afraid to ask / pay for.
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 3f93ef48-ea74-975e-211a-136e9053f052 "Legal Issues and Business Plans (PDF - 1.6MB)" >}}
+{{% resource_link 3f93ef48-ea74-975e-211a-136e9053f052 "Legal Issues and Business Plans (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,8 +256,8 @@ Part 1: Negotiation Skills
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Mindy Garber (bio)" "#garber" >}}  
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Victoria Bennet (bio)" "#bennet" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Mindy Garber (bio)" "#garber" %}}  
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Victoria Bennet (bio)" "#bennet" %}}
 
 
 {{< tdclose >}}
@@ -277,7 +277,7 @@ Part 2: Organizational and People Issues
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joost Bonsen (bio)" "#bonsen" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Joost Bonsen (bio)" "#bonsen" %}}
 
 
 {{< tdclose >}}
@@ -300,7 +300,7 @@ Pitfalls and Plan Execution
 
 ### Speaker
 
-{{< resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Yonald Chery (bio)" "#chery" >}}
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Yonald Chery (bio)" "#chery" %}}
 
 
 {{< tdclose >}}

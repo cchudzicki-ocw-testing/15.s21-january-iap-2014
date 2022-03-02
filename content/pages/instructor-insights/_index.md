@@ -38,9 +38,9 @@ Instructor Insights
 
 _Below, Joseph Hadzima describes various aspects of how he teaches 15.S21 Nuts and Bolts of New Ventures/Business Plans._
 
-*   {{< resource_link 660f69dc-90f6-8ff4-4c2c-5cba6ae66746 "Course History" >}}
-*   {{< resource_link 985ac65b-cc68-4e19-91e3-f8c9b61ab09e "Entrepreneurs in the Classroom" >}}
-*   {{< resource_link af386daa-f958-7966-36a9-7ab93e85af35 "Advice for Educators: Partner with Practitioners" >}}
+*   {{% resource_link 660f69dc-90f6-8ff4-4c2c-5cba6ae66746 "Course History" %}}
+*   {{% resource_link 985ac65b-cc68-4e19-91e3-f8c9b61ab09e "Entrepreneurs in the Classroom" %}}
+*   {{% resource_link af386daa-f958-7966-36a9-7ab93e85af35 "Advice for Educators: Partner with Practitioners" %}}
 
 Curriculum Information
 ----------------------
@@ -62,7 +62,7 @@ Every IAP
 Assessment
 ----------
 
-MIT students may take this course for 3 units of Pass/Fail credit. Attendance at each session is required and the {{< resource_link a23d0f4a-042a-1057-52a6-11c2407732da "writing requirement" >}} must be fulfilled.
+MIT students may take this course for 3 units of Pass/Fail credit. Attendance at each session is required and the {{% resource_link a23d0f4a-042a-1057-52a6-11c2407732da "writing requirement" %}} must be fulfilled.
 
 Student Information
 -------------------
@@ -94,4 +94,4 @@ Out of Class
 ------------
 
 *   Required readings
-*   {{< resource_link a23d0f4a-042a-1057-52a6-11c2407732da "Writing requirement" >}}
+*   {{% resource_link a23d0f4a-042a-1057-52a6-11c2407732da "Writing requirement" %}}
