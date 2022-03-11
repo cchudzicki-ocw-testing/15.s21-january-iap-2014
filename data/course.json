@@ -49,7 +49,8 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Written Assignments"
+    "Written Assignments",
+    "Lecture Notes"
   ],
   "site_uid": "0244dc10-9482-4d7f-b938-f2364cb3bf65",
   "title": "Course Metadata"
