@@ -27,10 +27,10 @@ Part 1: Introduction and Overview of Business Plans
 
 {{< tdclose >}}{{< tdopen >}}
 
-_Introduction to Business Plans_   
+_Introduction to Business Plans_    
 What is it, why do I need it and what is it used for? Practical do's and don'ts in preparing a Business Plan. Things to keep in mind in writing a Business Plan which will improve your chances of obtaining funding and running a successful business.
 
-_Introduction to Virtual Ink_   
+_Introduction to Virtual Ink_    
 During this course we will be referring to the Virtual Ink Business Plan as an example. Yonald Chery, a co-founder of Virtual Ink will present the plan in more detail in Session 6 and will discuss how the Virtual Ink idea became a company with products and what happened along the way.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -44,7 +44,7 @@ Part 2: Refining and Presenting Your Venture Idea
 {{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Stephen Pearse (bio)" "#pearse" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-_Presenting Your Idea_   
+_Presenting Your Idea_    
 Entrepreneurs are always "selling" their ideas to potential employees, customers, partners and investors. How do you position and present your ideas in the best light? Part of this class will be an interactive session with students and others who are in the process of developing a business plan.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link ed54344b-909e-f3c2-65d6-e9def909fd46 "How to Make a Pitch (PDF - 1.2MB)" %}}
@@ -99,8 +99,8 @@ Part 1: Financing Sources Panel
 {{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Julianne Zimmerman (bio)" "#zimmerman" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-You have identified the product / service and the market. You have settled on a business model and have done your financial projections. How will you finance the plan?   
-This session will cover: Bootstrapping the early stages. Funding from the 3 F's–Friends, Family and Fools. Angels—who are they and what are they looking for? Private placements. Customer financing. Consulting—getting someone else to pay for the development, provide a beta site and endorse your idea. Venture capital. Bank financing.   
+You have identified the product / service and the market. You have settled on a business model and have done your financial projections. How will you finance the plan?    
+This session will cover: Bootstrapping the early stages. Funding from the 3 F's–Friends, Family and Fools. Angels—who are they and what are they looking for? Private placements. Customer financing. Consulting—getting someone else to pay for the development, provide a beta site and endorse your idea. Venture capital. Bank financing.    
 You will learn about the institutional constraints and needs of various funding sources. As a result you will be in a better position to determine if, when and how to approach these sources for financing. This part of the program will feature a panel of experts representing different financing sources.
 {{< tdclose >}}{{< tdopen >}}
 No presentation slides.
@@ -136,7 +136,7 @@ Part 1: Founder's Journey
 
 ### Panel
 
-\[Gihan   
+\[Gihan    
 Amarasiriwardena (bio)\]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#amarasiriwardena )
 
 {{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Nina Dudnik (bio)" "#dudnik" %}}
@@ -160,7 +160,7 @@ Part 2: Legal Issues
 Joe Hadzima
 
 {{< tdclose >}}{{< tdopen >}}
-Identifying and dealing with legal issues in the Business Plan. Securities laws and the Business Plan—How to avoid Going to Jail without passing Go and without Collecting $200. Intellectual Property Law-Patents, Copyrights, Trademarks and Tradesecrets. Major hidden tax traps in starting a business—how to avoid generating phantom income and taxes.   
+Identifying and dealing with legal issues in the Business Plan. Securities laws and the Business Plan—How to avoid Going to Jail without passing Go and without Collecting $200. Intellectual Property Law-Patents, Copyrights, Trademarks and Tradesecrets. Major hidden tax traps in starting a business—how to avoid generating phantom income and taxes.    
 General questions and answers on legal issues for the entrepreneur—What you always wanted to know about the law but were afraid to ask / pay for.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 3f93ef48-ea74-975e-211a-136e9053f052 "Legal Issues and Business Plans (PDF - 1.6MB)" %}}
@@ -174,7 +174,7 @@ Part 1: Negotiation Skills
 
 ### Speaker
 
-{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Mindy Garber (bio)" "#garber" %}}   
+{{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Mindy Garber (bio)" "#garber" %}}    
 {{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Victoria Bennet (bio)" "#bennet" %}}
 
 {{< tdclose >}}{{< tdopen >}}
@@ -207,7 +207,7 @@ Pitfalls and Plan Execution
 
 {{< tdclose >}}{{< tdopen >}}
 
-Your Idea is great. You have good feedback from potential customers. You are convinced that your Strategy is correct. So how come you are having trouble raising money or attracting a team or partners?   
+Your Idea is great. You have good feedback from potential customers. You are convinced that your Strategy is correct. So how come you are having trouble raising money or attracting a team or partners?    
 Over and over again entrepreneurs make the same mistakes. Experienced investors, partners, and employees are alert for the pitfalls. Session 6 will discuss these pitfalls, how to recognize them, what to do about them, and how to present a business plan case which alleviates or anticipates these concerns.
 
 Yonald Chery will talk about what really happened to Virtual Ink: The Good, The Bad and the Ugly.
