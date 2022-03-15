@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Business Model Slides (PDF)](resources/mit15_s21iap14_session2-2)'
+optional_text: '[Business Model Slides (PDF)](/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/resources/mit15_s21iap14_session2-2)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
