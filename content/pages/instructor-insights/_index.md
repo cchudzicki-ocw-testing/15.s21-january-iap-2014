@@ -86,5 +86,5 @@ During an average week, students were expected to spend 21 hours on the course, 
 
 ### Out of Class
 
-- Required readings
+- {{% resource_link 7bf757f0-ee16-467b-183f-a463ef550502 "Required readings" %}}
 - {{% resource_link a23d0f4a-042a-1057-52a6-11c2407732da "Writing requirement" %}}
