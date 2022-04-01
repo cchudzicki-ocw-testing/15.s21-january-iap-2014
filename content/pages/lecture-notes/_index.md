@@ -136,8 +136,8 @@ Part 1: Founder's Journey
 
 ### Panel
 
-\[Gihan    
-Amarasiriwardena (bio)\]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#amarasiriwardena )
+[Gihan    
+Amarasiriwardena (bio)]({{< baseurl >}}/pages/lecture-notes/speaker-biographies#amarasiriwardena )
 
 {{% resource_link c7ee5bb7-639f-f7e8-b518-da2c4546f236 "Nina Dudnik (bio)" "#dudnik" %}}
 
