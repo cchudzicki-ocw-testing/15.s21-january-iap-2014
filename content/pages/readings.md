@@ -9,7 +9,7 @@ uid: 7bf757f0-ee16-467b-183f-a463ef550502
 ---
 ## Session 1
 
-### Part 1: Introduction and Overview of Business Plans
+### *Part 1: Introduction and Overview of Business Plans*
 
 #### Speaker
 
@@ -17,10 +17,10 @@ Joe Hadzima
 
 #### Topics
 
-*Introduction to Business Plans*   
+*Introduction to Business Plans*    
 What is it, why do I need it and what is it used for? Practical do's and don'ts in preparing a Business Plan. Things to keep in mind in writing a Business Plan which will improve your chances of obtaining funding and running a successful business.
 
-*Introduction to Virtual Ink*   
+*Introduction to Virtual Ink*    
 During this course, we will be referring to the Virtual Ink Business Plan as an example. Yonald Chery, a co-founder of Virtual Ink will present the plan in more detail in Session 6 and will discuss how the Virtual Ink idea became a company with products and what happened along the way.
 
 #### Readings
@@ -31,7 +31,7 @@ In preparation for the class skim through the *Virtual Ink Business Plan*. Focus
 - [*Virtual Ink* Plan: Company and Product Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_CompanyProduct.pdf)
 - [*Virtual Ink* Plan: Market Section (PDF)](http://nutsandbolts.mit.edu/Virtual_Ink/VirtualInk_Market.pdf)
 
-### Part 2: Refining and Presenting Your Venture Idea
+### *Part 2: Refining and Presenting Your Venture Idea*
 
 #### Speaker
 
@@ -39,7 +39,7 @@ Stephen Pearse
 
 #### Topics
 
-*Presenting Your Idea*   
+*Presenting Your Idea*    
 Entrepreneurs are always "selling" their ideas to potential employees, customers, partners, and investors. How do you position and present your ideas in the best light? Part of this class will be an interactive session with students and others who are in the process of developing a business plan.
 
 #### Readings
@@ -55,7 +55,7 @@ Leigh Buchanan. "[How to Add More Pep to Your Presentations](http://www.inc.com/
 
 ## Session 2
 
-### Part 1: Marketing and Sales
+### *Part 1: Marketing and Sales*
 
 #### Speaker
 
@@ -75,7 +75,7 @@ Moore, Geoffrey A. Chapters 1 and 2. In *Crossing the Chasm, Marketing and Selli
 
 Review the Market and Technology sections of the *Virtual Ink* Plan.
 
-### Part 2: Business Models
+### *Part 2: Business Models*
 
 #### Speaker
 
@@ -100,7 +100,7 @@ For class please review the following:
 
 ## Session 3
 
-### Part 1: Financing Sources Panel
+### *Part 1: Financing Sources Panel*
 
 #### Speakers
 
@@ -133,7 +133,7 @@ Articles from the Boston Business Journal "Starting Up" column:
 
 [Excerpts from: Venture Support Systems Project: Report on Angel Investors (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreportexcerpts.pdf), MIT Entrepreneurship Center, 2000. The full report is also available: [Full Angel Investor Report (PDF)](http://nutsandbolts.mit.edu/2014/resources/angelreport.pdf).
 
-### Part 2: Financial Projections
+### *Part 2: Financial Projections*
 
 #### Speaker
 
@@ -159,7 +159,7 @@ Download a copy of the [Financial Template (XLS)](http://nutsandbolts.mit.edu/20
 
 ## Session 4
 
-### Part 1: Founder's Journey
+### *Part 1: Founder's Journey*
 
 #### Speaker
 
@@ -179,7 +179,7 @@ In this session of Nuts and Bolts, Ken provides an overview of these important q
 
 Noam Wasserman. "[The Founder's Dilemna](http://www.hbr.org/2008/02/the-founders-dilemma/ar/1)." February 2008. *Harvard Business Review*.
 
-### Part 2: Legal Issues
+### *Part 2: Legal Issues*
 
 #### Speaker
 
@@ -205,7 +205,7 @@ Articles from the Boston Business Journal "Starting Up" column:
 
 ## Session 5
 
-### Part 1: Negotiation Skills
+### *Part 1: Negotiation Skills*
 
 ### Speakers
 
@@ -215,7 +215,7 @@ Mindy Garber, Victoria Bennet
 
 Interactive presentation.
 
-### Part 2: Organizational and People Issues
+### *Part 2: Organizational and People Issues*
 
 #### Speaker
 
@@ -231,7 +231,7 @@ Timmons, Jeffrey A. Chapter 7, "The New Venture Team." In *New Venture Creation:
 
 ## Session 6
 
-### Pitfalls and Plan Execution
+### *Pitfalls and Plan Execution*
 
 #### Speaker
 
