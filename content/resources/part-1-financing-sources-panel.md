@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 **Speakers:** Axel Bichara, Amir Nashat, and Julianne Zimmerman
+
