@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course. Information on course topics and subtopics is also provided.
 draft: false
 learning_resource_types:
 - Readings

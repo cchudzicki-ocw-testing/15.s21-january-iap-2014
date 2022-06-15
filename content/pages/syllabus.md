@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the information on the purpose of the
+  course, meeting times, prerequisites, grading and credit, and the schedule of course
+  topics, speakers, and assignment due dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

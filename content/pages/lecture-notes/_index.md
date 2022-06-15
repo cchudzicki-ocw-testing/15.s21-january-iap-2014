@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course, summaries of
+  of the topics covered in each session, and information on speakers.
 draft: false
 learning_resource_types:
 - Lecture Notes
