@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Joseph Hadzima advises educators interested in teaching
+  a course like 15.S21 Nuts and Bolts of New Ventures/Business Plans to partner with
+  practitioners in the field.
 draft: false
 layout: instructor_insights
 learning_resource_types: []

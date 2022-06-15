@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'In this section, Joseph Hadzima shares how he started 15.S21 Nuts and
+  Bolts of New Ventures/Business Plans in response to a dare and how he networked
+  to find engaging speakers for the course. He also describes the origins of two key
+  elements in the course: an emphasis on developing business plans and the bringing
+  together of students from business, science, and engineering for the purpose of
+  developing new ventures.'
 draft: false
 layout: instructor_insights
 learning_resource_types: []

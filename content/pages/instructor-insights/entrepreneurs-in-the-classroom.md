@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Joseph Hadzima shares his insights about inviting entrepreneurs,
+  some of whom have previously taken the course, to address current students.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
