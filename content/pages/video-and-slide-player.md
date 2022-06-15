@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a side-by-side viewer for the lecture videos and
+  slides. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video and Slide Player
